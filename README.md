@@ -1,11 +1,13 @@
-<h1>Password Generator | Challenge #3<h1>
+Password Generator | Challenge #3
+    
 By Reed Meher, July 2022, U of MN Coding Bootcamp
 
 Repo link: https://github.com/archonology/password-challenge-3.git
+
 Deployed link: https://archonology.github.io/password-challenge-3/
 
 -----------------
-<h2>About the project:<h2>
+About the project:
 
 - the deployed link takes you to a single webpage. The function of the webpage is
 to generate a random password for you, the user.
