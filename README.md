@@ -2,8 +2,9 @@ Password Generator | Challenge #3
 By Reed Meher, July 2022, U of MN Coding Bootcamp
 
 Repo link: https://github.com/archonology/password-challenge-3.git
-Deployed link: 
 
+Deployed link: https://archonology.github.io/password-challenge-3/
+------------------
 About the project:
 
 - the deployed link takes you to a single webpage. The function of the webpage is
@@ -17,7 +18,7 @@ to generate a random password for you, the user.
 - I have made some minor changes to the visual appearance of the website via CSS. The website works on various screen sizes through media queries.
 
 - The way the generator works is on a javascript foundation of prompts and confirms that will either leave out or push array's of characters into an empty array title "selectedCharacters". this selectedCharaters array, after it has been compiled with the users choices is joined into a single thread. Indexing and random math then push out the random password. voila! and then it resets since the var for password is "" (empty) when you run the function again.
-
+----------------
 Here is an image of how the page should look in the desktop mode:
 
 <img width="1728" alt="Screen Shot 2022-07-25 at 3 52 57 PM" src="https://user-images.githubusercontent.com/107374664/180878838-d2176002-c013-4144-b56d-e8ac81b71c2b.png">
