@@ -1,9 +1,9 @@
-Password Generator 
+# Password Generator 
 
 Deployed link: https://archonology.github.io/password-challenge-3/
 
 -----------------
-About the project:
+## About the project:
 
 - the deployed link takes you to a single webpage. The function of the webpage is
 to generate a random password for you, the user.
